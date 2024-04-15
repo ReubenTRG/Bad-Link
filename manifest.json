@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Bad Link",
+	"description": "Finds virus and malware links",
+	"version": "1.0",
+	"action": {
+	  "default_popup": "index.html",
+	  "default_icon": "Images/white_virus.png"
+	}
+  }
